@@ -1,0 +1,10 @@
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\bin\Debug\MediaGrej.exe.config
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\bin\Debug\MediaGrej.exe
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\bin\Debug\MediaGrej.pdb
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\obj\Debug\MediaGrej.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\obj\Debug\MediaGrej.Form1.resources
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\obj\Debug\MediaGrej.Properties.Resources.resources
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\obj\Debug\MediaGrej.csproj.GenerateResource.cache
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\obj\Debug\MediaGrej.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\obj\Debug\MediaGrej.exe
+C:\Users\22naadom\source\repos\MediaGrej\MediaGrej\obj\Debug\MediaGrej.pdb

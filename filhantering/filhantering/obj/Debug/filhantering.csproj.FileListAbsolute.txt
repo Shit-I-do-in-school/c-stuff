@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\filhantering\filhantering\bin\Debug\filhantering.exe.config
+C:\Users\22naadom\source\repos\filhantering\filhantering\bin\Debug\filhantering.exe
+C:\Users\22naadom\source\repos\filhantering\filhantering\bin\Debug\filhantering.pdb
+C:\Users\22naadom\source\repos\filhantering\filhantering\obj\Debug\filhantering.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\filhantering\filhantering\obj\Debug\filhantering.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\filhantering\filhantering\obj\Debug\filhantering.exe
+C:\Users\22naadom\source\repos\filhantering\filhantering\obj\Debug\filhantering.pdb

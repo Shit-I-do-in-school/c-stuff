@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\slumptal\slumptal\bin\Debug\slumptal.exe.config
+C:\Users\22naadom\source\repos\slumptal\slumptal\bin\Debug\slumptal.exe
+C:\Users\22naadom\source\repos\slumptal\slumptal\bin\Debug\slumptal.pdb
+C:\Users\22naadom\source\repos\slumptal\slumptal\obj\Debug\slumptal.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\slumptal\slumptal\obj\Debug\slumptal.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\slumptal\slumptal\obj\Debug\slumptal.exe
+C:\Users\22naadom\source\repos\slumptal\slumptal\obj\Debug\slumptal.pdb

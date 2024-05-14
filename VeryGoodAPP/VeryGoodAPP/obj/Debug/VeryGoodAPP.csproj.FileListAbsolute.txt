@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\VeryGoodAPP\VeryGoodAPP\obj\Debug\VeryGoodAPP.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\VeryGoodAPP\VeryGoodAPP\obj\Debug\VeryGoodAPP.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\VeryGoodAPP\VeryGoodAPP\bin\Debug\VeryGoodAPP.exe.config
+C:\Users\22naadom\source\repos\VeryGoodAPP\VeryGoodAPP\bin\Debug\VeryGoodAPP.exe
+C:\Users\22naadom\source\repos\VeryGoodAPP\VeryGoodAPP\bin\Debug\VeryGoodAPP.pdb
+C:\Users\22naadom\source\repos\VeryGoodAPP\VeryGoodAPP\obj\Debug\VeryGoodAPP.exe
+C:\Users\22naadom\source\repos\VeryGoodAPP\VeryGoodAPP\obj\Debug\VeryGoodAPP.pdb

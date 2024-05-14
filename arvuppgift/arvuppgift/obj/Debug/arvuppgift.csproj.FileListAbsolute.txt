@@ -1,0 +1,10 @@
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\bin\Debug\arvuppgift.exe.config
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\bin\Debug\arvuppgift.exe
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\bin\Debug\arvuppgift.pdb
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\obj\Debug\arvuppgift.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\obj\Debug\arvuppgift.Form1.resources
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\obj\Debug\arvuppgift.Properties.Resources.resources
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\obj\Debug\arvuppgift.csproj.GenerateResource.cache
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\obj\Debug\arvuppgift.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\obj\Debug\arvuppgift.exe
+C:\Users\22naadom\source\repos\arvuppgift\arvuppgift\obj\Debug\arvuppgift.pdb

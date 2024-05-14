@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\c#DomareMedSäcket\c#DomareMedSäcket\bin\Debug\c#DomareMedSäcket.exe.config
+C:\Users\22naadom\source\repos\c#DomareMedSäcket\c#DomareMedSäcket\bin\Debug\c#DomareMedSäcket.exe
+C:\Users\22naadom\source\repos\c#DomareMedSäcket\c#DomareMedSäcket\bin\Debug\c#DomareMedSäcket.pdb
+C:\Users\22naadom\source\repos\c#DomareMedSäcket\c#DomareMedSäcket\obj\Debug\c#DomareMedSäcket.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\c#DomareMedSäcket\c#DomareMedSäcket\obj\Debug\c#DomareMedSäcket.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\c#DomareMedSäcket\c#DomareMedSäcket\obj\Debug\c#DomareMedSäcket.exe
+C:\Users\22naadom\source\repos\c#DomareMedSäcket\c#DomareMedSäcket\obj\Debug\c#DomareMedSäcket.pdb

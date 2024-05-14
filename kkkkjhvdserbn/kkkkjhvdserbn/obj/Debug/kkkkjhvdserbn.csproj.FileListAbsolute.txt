@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\kkkkjhvdserbn\kkkkjhvdserbn\bin\Debug\kkkkjhvdserbn.exe.config
+C:\Users\22naadom\source\repos\kkkkjhvdserbn\kkkkjhvdserbn\bin\Debug\kkkkjhvdserbn.exe
+C:\Users\22naadom\source\repos\kkkkjhvdserbn\kkkkjhvdserbn\bin\Debug\kkkkjhvdserbn.pdb
+C:\Users\22naadom\source\repos\kkkkjhvdserbn\kkkkjhvdserbn\obj\Debug\kkkkjhvdserbn.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\kkkkjhvdserbn\kkkkjhvdserbn\obj\Debug\kkkkjhvdserbn.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\kkkkjhvdserbn\kkkkjhvdserbn\obj\Debug\kkkkjhvdserbn.exe
+C:\Users\22naadom\source\repos\kkkkjhvdserbn\kkkkjhvdserbn\obj\Debug\kkkkjhvdserbn.pdb

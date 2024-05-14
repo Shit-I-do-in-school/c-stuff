@@ -1,0 +1,20 @@
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\bin\Debug\BlackJackGame_App.exe.config
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\bin\Debug\BlackJackGame_App.exe
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\bin\Debug\BlackJackGame_App.pdb
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\obj\Debug\BlackJackGame_App.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\obj\Debug\BlackJackGame_App.Form1.resources
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\obj\Debug\BlackJackGame_App.Properties.Resources.resources
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\obj\Debug\BlackJackGame_App.csproj.GenerateResource.cache
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\obj\Debug\BlackJackGame_App.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\obj\Debug\BlackJackGame_App.exe
+C:\Users\22naadom\source\repos\BlackJackGame_App\BlackJackGame_App\obj\Debug\BlackJackGame_App.pdb
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\bin\Debug\BlackJackGame_App.exe.config
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\bin\Debug\BlackJackGame_App.exe
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\bin\Debug\BlackJackGame_App.pdb
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\obj\Debug\BlackJackGame_App.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\obj\Debug\BlackJackGame_App.Form1.resources
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\obj\Debug\BlackJackGame_App.Properties.Resources.resources
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\obj\Debug\BlackJackGame_App.csproj.GenerateResource.cache
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\obj\Debug\BlackJackGame_App.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\obj\Debug\BlackJackGame_App.exe
+C:\Users\22naadom\source\repos\BlackJackGame_App V2\BlackJackGame_App\obj\Debug\BlackJackGame_App.pdb

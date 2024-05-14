@@ -1,0 +1,10 @@
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\bin\Debug\BlackJack_optimised-ish.exe.config
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\bin\Debug\BlackJack_optimised-ish.exe
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\bin\Debug\BlackJack_optimised-ish.pdb
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\obj\Debug\BlackJack_optimised-ish.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\obj\Debug\BlackJack_optimised_ish.Form1.resources
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\obj\Debug\BlackJack_optimised_ish.Properties.Resources.resources
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\obj\Debug\BlackJack_optimised-ish.csproj.GenerateResource.cache
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\obj\Debug\BlackJack_optimised-ish.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\obj\Debug\BlackJack_optimised-ish.exe
+C:\Users\22naadom\source\repos\BlackJack_optimised-ish\BlackJack_optimised-ish\obj\Debug\BlackJack_optimised-ish.pdb

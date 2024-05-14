@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\loopforCF\loopforCF\bin\Debug\loopforCF.exe.config
+C:\Users\22naadom\source\repos\loopforCF\loopforCF\bin\Debug\loopforCF.exe
+C:\Users\22naadom\source\repos\loopforCF\loopforCF\bin\Debug\loopforCF.pdb
+C:\Users\22naadom\source\repos\loopforCF\loopforCF\obj\Debug\loopforCF.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\loopforCF\loopforCF\obj\Debug\loopforCF.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\loopforCF\loopforCF\obj\Debug\loopforCF.exe
+C:\Users\22naadom\source\repos\loopforCF\loopforCF\obj\Debug\loopforCF.pdb

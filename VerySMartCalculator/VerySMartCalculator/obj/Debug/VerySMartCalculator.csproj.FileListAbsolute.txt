@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\VerySMartCalculator\VerySMartCalculator\obj\Debug\VerySMartCalculator.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\VerySMartCalculator\VerySMartCalculator\obj\Debug\VerySMartCalculator.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\VerySMartCalculator\VerySMartCalculator\bin\Debug\VerySMartCalculator.exe.config
+C:\Users\22naadom\source\repos\VerySMartCalculator\VerySMartCalculator\bin\Debug\VerySMartCalculator.exe
+C:\Users\22naadom\source\repos\VerySMartCalculator\VerySMartCalculator\bin\Debug\VerySMartCalculator.pdb
+C:\Users\22naadom\source\repos\VerySMartCalculator\VerySMartCalculator\obj\Debug\VerySMartCalculator.exe
+C:\Users\22naadom\source\repos\VerySMartCalculator\VerySMartCalculator\obj\Debug\VerySMartCalculator.pdb

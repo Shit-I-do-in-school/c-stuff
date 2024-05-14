@@ -1,0 +1,9 @@
+C:\Users\22naadom\source\repos\Tutorial_Script\Tutorial_Script\obj\Debug\Tutorial_Script.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\Tutorial_Script\Tutorial_Script\obj\Debug\Tutorial_Script.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\Tutorial_Script\Tutorial_Script\bin\Debug\Tutorial_Script.dll
+C:\Users\22naadom\source\repos\Tutorial_Script\Tutorial_Script\bin\Debug\Tutorial_Script.pdb
+C:\Users\22naadom\source\repos\Tutorial_Script\Tutorial_Script\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\22naadom\source\repos\Tutorial_Script\Tutorial_Script\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\22naadom\source\repos\Tutorial_Script\Tutorial_Script\obj\Debug\Tutorial_Script.csproj.CopyComplete
+C:\Users\22naadom\source\repos\Tutorial_Script\Tutorial_Script\obj\Debug\Tutorial_Script.dll
+C:\Users\22naadom\source\repos\Tutorial_Script\Tutorial_Script\obj\Debug\Tutorial_Script.pdb

@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\filehandlerprov\filehandlerprov\obj\Debug\filehandlerprov.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\filehandlerprov\filehandlerprov\obj\Debug\filehandlerprov.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\filehandlerprov\filehandlerprov\bin\Debug\filehandlerprov.exe.config
+C:\Users\22naadom\source\repos\filehandlerprov\filehandlerprov\bin\Debug\filehandlerprov.exe
+C:\Users\22naadom\source\repos\filehandlerprov\filehandlerprov\bin\Debug\filehandlerprov.pdb
+C:\Users\22naadom\source\repos\filehandlerprov\filehandlerprov\obj\Debug\filehandlerprov.exe
+C:\Users\22naadom\source\repos\filehandlerprov\filehandlerprov\obj\Debug\filehandlerprov.pdb

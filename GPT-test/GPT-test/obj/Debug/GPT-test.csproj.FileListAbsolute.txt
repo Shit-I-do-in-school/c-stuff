@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\GPT-test\GPT-test\bin\Debug\GPT-test.exe.config
+C:\Users\22naadom\source\repos\GPT-test\GPT-test\bin\Debug\GPT-test.exe
+C:\Users\22naadom\source\repos\GPT-test\GPT-test\bin\Debug\GPT-test.pdb
+C:\Users\22naadom\source\repos\GPT-test\GPT-test\obj\Debug\GPT-test.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\GPT-test\GPT-test\obj\Debug\GPT-test.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\GPT-test\GPT-test\obj\Debug\GPT-test.exe
+C:\Users\22naadom\source\repos\GPT-test\GPT-test\obj\Debug\GPT-test.pdb

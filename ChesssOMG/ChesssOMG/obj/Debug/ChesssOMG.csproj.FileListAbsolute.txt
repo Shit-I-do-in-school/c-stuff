@@ -1,0 +1,11 @@
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\bin\Debug\ChesssOMG.exe.config
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\bin\Debug\ChesssOMG.exe
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\bin\Debug\ChesssOMG.pdb
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\obj\Debug\ChesssOMG.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\obj\Debug\ChesssOMG.Properties.Resources.resources
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\obj\Debug\ChesssOMG.UserControl1.resources
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\obj\Debug\ChesssOMG.csproj.GenerateResource.cache
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\obj\Debug\ChesssOMG.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\obj\Debug\ChesssOMG.exe
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\obj\Debug\ChesssOMG.pdb
+C:\Users\22naadom\source\repos\ChesssOMG\ChesssOMG\obj\Debug\ChesssOMG.Form1.resources

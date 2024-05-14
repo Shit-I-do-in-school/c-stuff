@@ -1,0 +1,10 @@
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\bin\Debug\Calculator_app.exe.config
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\bin\Debug\Calculator_app.exe
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\bin\Debug\Calculator_app.pdb
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.Form1.resources
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.Properties.Resources.resources
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.csproj.GenerateResource.cache
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.exe
+C:\Users\22naadom\source\repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.pdb

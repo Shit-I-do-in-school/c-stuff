@@ -1,0 +1,7 @@
+C:\Users\22naadom\source\repos\webScrapeImage\webScrapeImage\bin\Debug\webScrapeImage.exe.config
+C:\Users\22naadom\source\repos\webScrapeImage\webScrapeImage\bin\Debug\webScrapeImage.exe
+C:\Users\22naadom\source\repos\webScrapeImage\webScrapeImage\bin\Debug\webScrapeImage.pdb
+C:\Users\22naadom\source\repos\webScrapeImage\webScrapeImage\obj\Debug\webScrapeImage.csproj.AssemblyReference.cache
+C:\Users\22naadom\source\repos\webScrapeImage\webScrapeImage\obj\Debug\webScrapeImage.csproj.CoreCompileInputs.cache
+C:\Users\22naadom\source\repos\webScrapeImage\webScrapeImage\obj\Debug\webScrapeImage.exe
+C:\Users\22naadom\source\repos\webScrapeImage\webScrapeImage\obj\Debug\webScrapeImage.pdb
